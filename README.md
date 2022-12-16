@@ -1,5 +1,7 @@
 # Apura Eleicao 2022 (Bot)
 O Apura Eleição 2022 é um bot para Telegram desenvolvido em Python, que tem como objetivo devolver ao usuário a informação de resultado do segundo turno das eleições presidenciais de 2022.
+
+***Bot finalizado localmente, falta deploy aqui.***
 ![](Bot-Apura-Eleicao-2022-img.jpg)
 
 ## Contexto
